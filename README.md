@@ -1,2 +1,4 @@
 # Scratch_CS50_Griffin-s_Fury
-Griffin’s Fury is an action bullet-hell game where you control a griffin dodging fireballs from evil dragons. Survive as long as possible while avoiding attacks. Developed on Scratch with simple mechanics, a scoring system, and exciting soundtrack for CS50's Intro to Computer Science at Harvard.
+Griffin’s Fury is an action and bullet-hell game developed on the Scratch platform. In the game, you control a griffin that must dodge fireballs launched by evil dragons. The objective is to survive as long as possible, avoiding attacks and preserving your life. The game features simple movement and collision mechanics, an exciting soundtrack, and a scoring system.
+
+This project was developed as part of Harvard University's CS50 Introduction to Computer Science course.
